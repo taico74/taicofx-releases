@@ -1,8 +1,8 @@
 {
-  "version": "2.1.4",
-  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.1.4/TaicoFX_v2.1.4.zip",
-  "notes": "TaicoFX 2.1.4 — Effet d'application et time remap par couteau\n\nNouveautés\n• Petite gerbe de particules quand tu appliques un preset, aux couleurs de ton thème.\n• Elle se déclenche aussi depuis la palette Ctrl+K, et se désactive avec l'interrupteur « Animations » des Réglages.\n• Sync : time remap enregistrable par couteau. Fais la courbe à la main sur un clip, enregistre-la dans le profil du couteau, puis chaque clip de ce couteau reçoit la même courbe étirée pour finir sur le beat suivant.",
+  "version": "2.1.5",
+  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.1.5/TaicoFX_v2.1.5.zip",
+  "notes": "TaicoFX 2.1.5 — Fond animé\n\nNouveautés\n• Nouveau fond : des nappes de couleur floues aux teintes de ton accent dérivent lentement derrière le panneau.\n• Il suit ta palette, s'adoucit en thème clair et se fige si tu coupes « Animations » dans les Réglages.",
   "date": "2026-10-28",
-  "sha256": "0cf91790ab717c8d570f2f2b484c55f6e309704425045c181e917a3b0098fe39",
-  "size": 4228521
+  "sha256": "5bf1705ae7204d929a3ea0a5b1392543ab556edadb52d02619293a2b257dab81",
+  "size": 4231169
 }
