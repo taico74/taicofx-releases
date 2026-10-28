@@ -1,8 +1,8 @@
 {
-  "version": "2.1.3",
-  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.1.3/TaicoFX_v2.1.3.zip",
-  "notes": "TaicoFX 2.1.3 — Palette de commandes et profils de couteaux\n\nNouveautés\n• Palette de commandes (Ctrl+K) : ouvre une barre de recherche qui lance n'importe quelle action ou applique n'importe quel preset au clavier. Tes presets récents s'affichent en premier.\n• Astuce : la pastille « Ctrl K » en bas du panneau l'ouvre aussi à la souris.\n• Sync : couteaux en vignettes avec images (liste officielle des skins Valorant) et profils de timing par couteau.",
+  "version": "2.1.4",
+  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.1.4/TaicoFX_v2.1.4.zip",
+  "notes": "TaicoFX 2.1.4 — Effet d'application et time remap par couteau\n\nNouveautés\n• Petite gerbe de particules quand tu appliques un preset, aux couleurs de ton thème.\n• Elle se déclenche aussi depuis la palette Ctrl+K, et se désactive avec l'interrupteur « Animations » des Réglages.\n• Sync : time remap enregistrable par couteau. Fais la courbe à la main sur un clip, enregistre-la dans le profil du couteau, puis chaque clip de ce couteau reçoit la même courbe étirée pour finir sur le beat suivant.",
   "date": "2026-10-28",
-  "sha256": "8a3ba3680706f427bd8e6db48c2ae3203aaa68a7268977f0737dc2bf7a7c72cf",
-  "size": 4218305
+  "sha256": "0cf91790ab717c8d570f2f2b484c55f6e309704425045c181e917a3b0098fe39",
+  "size": 4228521
 }
