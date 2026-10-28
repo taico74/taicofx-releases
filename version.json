@@ -1,8 +1,8 @@
 {
-  "version": "2.1.1",
-  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.1.1/TaicoFX_v2.1.1.zip",
-  "notes": "TaicoFX 2.1 — Personnalisation et mises à jour\n\nNouveautés\n• Panneau Réglages (icône ⚙ en haut) : change la couleur d'accent parmi 9 teintes ou choisis la tienne.\n• 4 fonds au choix : Graphite, Noir profond, Ardoise et mode Clair.\n• Confort de lecture : active/désactive les effets lumineux et les animations, règle la taille du texte et des vignettes.\n• Mises à jour automatiques : le panneau te prévient quand une nouvelle version est disponible.\n\nTes réglages sont gardés en mémoire et appliqués dès l'ouverture.",
+  "version": "2.1.2",
+  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.1.2/TaicoFX_v2.1.2.zip",
+  "notes": "TaicoFX 2.1.2 — Aperçus animés\n\nNouveautés\n• Aperçu au survol : pose une vidéo ou un GIF à côté d'un preset et il se joue quand tu passes la souris sur sa carte.\n• Pour en ajouter un : survole une carte, clique sur le crayon, puis « Vidéo / GIF… ».\n• Chargement plus fluide : la grille affiche des cases animées pendant la recherche des presets, fini l'écran vide.",
   "date": "2026-10-28",
-  "sha256": "481f00111911d4db0a65f4c01456f131c37f70453e4476bdba2a39cd307b2b98",
-  "size": 4173715
+  "sha256": "ee8181b833dfb0f0a9981dbce5c2e29db5b24ecf720fe52af862888f1af59c2c",
+  "size": 4188687
 }
