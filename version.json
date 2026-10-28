@@ -1,8 +1,8 @@
 {
-  "version": "2.1.6",
-  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.1.6/TaicoFX_v2.1.6.zip",
-  "notes": "TaicoFX 2.1.6 — Glisser-déposer et couteaux illustrés\n\nNouveautés\n• Glisser-déposer : lâche des fichiers .ffx ou .aep directement sur le panneau, ils sont ajoutés à ta bibliothèque de presets.\n• Sync : 27 couteaux animés pré-chargés avec leur image officielle (Kuronami, RGX, Araxys, Champions, Mystbloom, Singularity…), favoris ★ sur les vignettes, filtre de recherche, time remap enregistrable par couteau et rejoué étiré sur les beats.",
+  "version": "2.1.7",
+  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.1.7/TaicoFX_v2.1.7.zip",
+  "notes": "TaicoFX 2.1.7 — Shake simplifié\n\nNouveautés\n• Shake Zoom en un clic : le bouton crée tout seul le calque d'effets par-dessus et pose le zoom sur les beats. Plus besoin d'ajouter un calque d'ajustement avant.\n• L'onglet Shake est épuré : réglages de courbe et de valeurs retirés, section Vini supprimée.\n• Sync : nouveaux profils Jett Blade Storm et Reyna Dismiss, bouton Caler simplifié.",
   "date": "2026-10-28",
-  "sha256": "64f14ac54593711f8630e10b2bb7a330c26383d11a26024702b317f7ac36f170",
-  "size": 6067422
+  "sha256": "e82ddb9596c30308a81c0427689e4e4375cb4f876e50d851e764aa8b50ea3e8f",
+  "size": 6085987
 }
