@@ -1,8 +1,8 @@
 {
-  "version": "2.1.7",
-  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.1.7/TaicoFX_v2.1.7.zip",
-  "notes": "TaicoFX 2.1.7 — Shake simplifié\n\nNouveautés\n• Shake Zoom en un clic : le bouton crée tout seul le calque d'effets par-dessus et pose le zoom sur les beats. Plus besoin d'ajouter un calque d'ajustement avant.\n• L'onglet Shake est épuré : réglages de courbe et de valeurs retirés, section Vini supprimée.\n• Sync : nouveaux profils Jett Blade Storm et Reyna Dismiss, bouton Caler simplifié.",
+  "version": "2.1.8",
+  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.1.8/TaicoFX_v2.1.8.zip",
+  "notes": "TaicoFX 2.1.8 — Flow affiné, favoris et clips par couteau\n\nNouveautés\n• Flow : import des bibliothèques .flow de l'extension Flow (menu ⋯ > Importer).\n• Flow : maintiens Maj en déplaçant une poignée pour la caler sur la grille.\n• Flow : mets tes courbes en favori (★), elles remontent en haut de la liste. Onglet épuré, boutons Récupérer / Appliquer plus clairs.\n• Texte : favoris ★ sur tes animations perso.\n• Sync : dossier de clips par couteau (import en un clic à la tête de lecture), remaps livrés par défaut pour les couteaux, fenêtre couteau simplifiée.",
   "date": "2026-10-28",
-  "sha256": "e82ddb9596c30308a81c0427689e4e4375cb4f876e50d851e764aa8b50ea3e8f",
-  "size": 6085987
+  "sha256": "63f30da0f33c4ba345bbcc923eb80c4c162bcd27250d96bd1e30f8a5714e09a5",
+  "size": 6112015
 }
