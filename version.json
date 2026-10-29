@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
-  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.2.0/TaicoFX_v2.2.0.zip",
-  "notes": "TaicoFX 2.2.0 — Shakes Motion Bro et design peaufiné\n\nNouveautés\n• Shake : presets Motion Bro / HST (.aep) posés comme Motion Bro mais calés sur les beats — choix du preset et de la variante, pose sur le beat suivant avec coupe au beat d'après, presets récents.\n• Design : effets visuels assagis (fond, halo, reflets, lueurs de texte) pour un rendu plus net et plus pro.\n• Design : hiérarchie typographique renforcée (titres de section et noms plus lisibles).\n• Mode clair réparé et barre d'onglets allégée (rappel des versions précédentes).",
+  "version": "2.2.1",
+  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.2.1/TaicoFX_v2.2.1.zip",
+  "notes": "TaicoFX 2.2.1 — Navigateur de shakes et design peaufiné\n\nNouveautés\n• Shake : navigateur de shakes Motion Bro / HST (packs, catégories, recherche, favoris, aperçu vidéo au survol), posés comme Motion Bro mais calés sur les beats.\n• Design : effets visuels assagis (fond, halo, reflets, lueurs de texte) pour un rendu plus net et plus pro.\n• Design : hiérarchie typographique renforcée, mode clair réparé, barre d'onglets allégée.",
   "date": "2026-10-29",
-  "sha256": "506eabed24bc717e73e57d65dcaf1be56e59530b03c7b22df6af21594e7230ce",
-  "size": 6124568
+  "sha256": "b7f6cf8bdd623221cac03eb5555b1159f9faa72fbae000867bbbe78706ab114b",
+  "size": 6122724
 }
