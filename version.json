@@ -1,8 +1,8 @@
 {
-  "version": "2.2.4",
-  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.2.4/TaicoFX_v2.2.4.zip",
-  "notes": "TaicoFX 2.2.4 — Finitions\n\nNouveautés\n• Navigation clavier : contour d'accent visible au focus pour une utilisation au clavier plus claire.\n• Documentation (LISEZ-MOI) mise à jour et contact support ajouté.",
+  "version": "2.2.5",
+  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.2.5/TaicoFX_v2.2.5.zip",
+  "notes": "TaicoFX 2.2.5 — Mise en page\n\nNouveautés\n• Espacements homogénéisés entre les sections : tous les onglets démarrent à la même hauteur, rythme plus régulier.",
   "date": "2026-10-29",
-  "sha256": "0fc0d8a1bbedad1cf35a61f39441b6ad075e8b60efda9e7a2515baaf55cff99d",
-  "size": 6127854
+  "sha256": "1653f7268ee0a3eed7779e2af8936fadf4a511fbb81b0684a274613a1a09cef2",
+  "size": 6132258
 }
