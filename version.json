@@ -1,8 +1,8 @@
 {
-  "version": "2.2.3",
-  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.2.3/TaicoFX_v2.2.3.zip",
-  "notes": "TaicoFX 2.2.3 — Shakes Motion Bro affinés\n\nNouveautés\n• Shake Motion Bro : vue simplifiée Hit Impulse In/Out 1x-3x (tout le pack en un clic).\n• Correctif variantes : le shake posé est toujours exactement celui que tu as cliqué.\n• Alternance gauche/droite de la rotation pour les Hit Impulse.\n• Bouton réimporter les presets.",
+  "version": "2.2.4",
+  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.2.4/TaicoFX_v2.2.4.zip",
+  "notes": "TaicoFX 2.2.4 — Finitions\n\nNouveautés\n• Navigation clavier : contour d'accent visible au focus pour une utilisation au clavier plus claire.\n• Documentation (LISEZ-MOI) mise à jour et contact support ajouté.",
   "date": "2026-10-29",
-  "sha256": "80105833202e08944a83386bc807bafb8183007fcc4ddf18cef5959c3256e7ea",
-  "size": 6135802
+  "sha256": "0fc0d8a1bbedad1cf35a61f39441b6ad075e8b60efda9e7a2515baaf55cff99d",
+  "size": 6127854
 }
