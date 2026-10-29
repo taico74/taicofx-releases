@@ -1,8 +1,8 @@
 {
-  "version": "2.2.5",
-  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.2.5/TaicoFX_v2.2.5.zip",
-  "notes": "TaicoFX 2.2.5 — Mise en page\n\nNouveautés\n• Espacements homogénéisés entre les sections : tous les onglets démarrent à la même hauteur, rythme plus régulier.",
+  "version": "2.2.6",
+  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.2.6/TaicoFX_v2.2.6.zip",
+  "notes": "TaicoFX 2.2.6 — Shakes Motion Bro corrigés\n\nNouveautés\n• Les shakes gardent leur vraie longueur et vitesse : les keyframes du time remap sont alignées sur le shake (plus de ralenti qui traîne après).\n• Nouvelle case \"Aberration chromatique\" (cochée par défaut) : décoche-la pour un shake sans décalage RGB.",
   "date": "2026-10-29",
-  "sha256": "1653f7268ee0a3eed7779e2af8936fadf4a511fbb81b0684a274613a1a09cef2",
-  "size": 6132258
+  "sha256": "76f5802763d5d2b4e94b6110a83b6f914887472a96323f0ebc09760342eed544",
+  "size": 6135238
 }
