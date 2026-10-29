@@ -1,8 +1,8 @@
 {
-  "version": "2.1.8",
-  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.1.8/TaicoFX_v2.1.8.zip",
-  "notes": "TaicoFX 2.1.8 — Flow affiné, favoris et clips par couteau\n\nNouveautés\n• Flow : import des bibliothèques .flow de l'extension Flow (menu ⋯ > Importer).\n• Flow : maintiens Maj en déplaçant une poignée pour la caler sur la grille.\n• Flow : mets tes courbes en favori (★), elles remontent en haut de la liste. Onglet épuré, boutons Récupérer / Appliquer plus clairs.\n• Texte : favoris ★ sur tes animations perso.\n• Sync : dossier de clips par couteau (import en un clic à la tête de lecture), remaps livrés par défaut pour les couteaux, fenêtre couteau simplifiée.",
-  "date": "2026-10-28",
-  "sha256": "63f30da0f33c4ba345bbcc923eb80c4c162bcd27250d96bd1e30f8a5714e09a5",
-  "size": 6112015
+  "version": "2.1.9",
+  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.1.9/TaicoFX_v2.1.9.zip",
+  "notes": "TaicoFX 2.1.9 — Design peaufiné\n\nNouveautés\n• Mode clair réparé : vignettes de presets lisibles, éditeur de courbe Flow visible, cartes mieux détachées du fond.\n• Barre d'onglets allégée : icônes épurées, le libellé s'affiche sur l'onglet actif.",
+  "date": "2026-10-29",
+  "sha256": "0ae8c0bee3e3914102be392645f5bceb47198d577468ecd79a5e26f2e18328c6",
+  "size": 6102048
 }
