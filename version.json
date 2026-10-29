@@ -1,8 +1,8 @@
 {
-  "version": "2.2.1",
-  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.2.1/TaicoFX_v2.2.1.zip",
-  "notes": "TaicoFX 2.2.1 — Navigateur de shakes et design peaufiné\n\nNouveautés\n• Shake : navigateur de shakes Motion Bro / HST (packs, catégories, recherche, favoris, aperçu vidéo au survol), posés comme Motion Bro mais calés sur les beats.\n• Design : effets visuels assagis (fond, halo, reflets, lueurs de texte) pour un rendu plus net et plus pro.\n• Design : hiérarchie typographique renforcée, mode clair réparé, barre d'onglets allégée.",
+  "version": "2.2.2",
+  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.2.2/TaicoFX_v2.2.2.zip",
+  "notes": "TaicoFX 2.2.2 — Motion Bro : alternance et correctif\n\nNouveautés\n• Shake Motion Bro : alternance automatique des directions (gauche/droite, haut/bas…).\n• Pose sur tous les beats suivants d'un coup.\n• Correctif : les presets de même nom (ex. plusieurs « Hit Shake.aep ») ne se mélangent plus.",
   "date": "2026-10-29",
-  "sha256": "b7f6cf8bdd623221cac03eb5555b1159f9faa72fbae000867bbbe78706ab114b",
-  "size": 6122724
+  "sha256": "c1ec3f32765ccf9885be42771b42d62735be9f8e135a151a917f54768cc5cdea",
+  "size": 6125781
 }
