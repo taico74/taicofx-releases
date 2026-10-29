@@ -1,8 +1,8 @@
 {
-  "version": "2.2.2",
-  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.2.2/TaicoFX_v2.2.2.zip",
-  "notes": "TaicoFX 2.2.2 — Motion Bro : alternance et correctif\n\nNouveautés\n• Shake Motion Bro : alternance automatique des directions (gauche/droite, haut/bas…).\n• Pose sur tous les beats suivants d'un coup.\n• Correctif : les presets de même nom (ex. plusieurs « Hit Shake.aep ») ne se mélangent plus.",
+  "version": "2.2.3",
+  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.2.3/TaicoFX_v2.2.3.zip",
+  "notes": "TaicoFX 2.2.3 — Shakes Motion Bro affinés\n\nNouveautés\n• Shake Motion Bro : vue simplifiée Hit Impulse In/Out 1x-3x (tout le pack en un clic).\n• Correctif variantes : le shake posé est toujours exactement celui que tu as cliqué.\n• Alternance gauche/droite de la rotation pour les Hit Impulse.\n• Bouton réimporter les presets.",
   "date": "2026-10-29",
-  "sha256": "c1ec3f32765ccf9885be42771b42d62735be9f8e135a151a917f54768cc5cdea",
-  "size": 6125781
+  "sha256": "80105833202e08944a83386bc807bafb8183007fcc4ddf18cef5959c3256e7ea",
+  "size": 6135802
 }
