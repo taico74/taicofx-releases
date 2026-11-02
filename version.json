@@ -1,8 +1,8 @@
 {
-  "version": "2.2.6",
-  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.2.6/TaicoFX_v2.2.6.zip",
-  "notes": "TaicoFX 2.2.6 — Shakes Motion Bro corrigés\n\nNouveautés\n• Les shakes gardent leur vraie longueur et vitesse : les keyframes du time remap sont alignées sur le shake (plus de ralenti qui traîne après).\n• Nouvelle case \"Aberration chromatique\" (cochée par défaut) : décoche-la pour un shake sans décalage RGB.",
-  "date": "2026-10-29",
-  "sha256": "76f5802763d5d2b4e94b6110a83b6f914887472a96323f0ebc09760342eed544",
-  "size": 6135238
+  "version": "2.3.0",
+  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.3.0/TaicoFX_v2.3.0.zip",
+  "notes": "TaicoFX 2.3.0 — Paroles fiables, interface allégée, mises à jour en un clic\n\nParoles\n• Colle le texte de ton son : TaicoFX pose 1 marqueur par mot de TES paroles, dans le bon ordre, même quand le moteur comprend mal l'argot, le verlan ou un nom. Les mots non entendus sont replacés sur la voix, les lignes absentes de l'audio sont ignorées.\n• Nouveau choix « Modèle : rapide / précis » dans les options. Le modèle précis (1,5 Go, téléchargé une seule fois) entend mieux les couplets difficiles.\n• Langue devinée d'après les paroles collées, option « Mixte » pour les sons FR/EN. Les paroles collées sont mémorisées.\n• Toujours 100 % local : aucune connexion après le téléchargement du modèle, aucun abonnement.\n\nInterface\n• Onglet Beat allégé : un seul gros bouton « Détecter les claps », les paroles dans un bloc repliable, les réglages avancés rangés dans « Options ».\n• Blocs repliables sur les autres onglets : l'action principale visible, le reste dans « Options ».\n• Moins de texte partout : les explications longues deviennent une ligne d'astuce ou une infobulle.\n• Les cartes de couteaux et de shakes suivent ta couleur d'accent.\n\nOrganisation\n• Glisse les onglets dans la barre pour les mettre dans l'ordre que tu veux ; l'ordre est mémorisé (réinitialisable dans Réglages).\n• Les couteaux (Sync), les boutons de calques et les animations texte se réorganisent aussi par glisser-déposer.\n\nMises à jour\n• Au lancement, un message te prévient quand une nouvelle version est disponible (Plus tard / Ignorer / Mettre à jour).\n• Réglages ⚙ › Mise à jour : ta version, « Vérifier maintenant » et « Mettre à jour » en un clic. Redémarre After Effects après l'installation.",
+  "date": "2026-11-02",
+  "sha256": "d8aa429bb5bcd76fc3475bb0b5c77701bf3d7f6e7ae212ae2069572b4510ecbe",
+  "size": 6192634
 }
