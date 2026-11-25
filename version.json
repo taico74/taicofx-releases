@@ -1,8 +1,8 @@
 {
-  "version": "2.5.7",
-  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.5.7/TaicoFX_v2.5.7.zip",
-  "notes": "TaicoFX 2.5.7 — Le panneau en allemand et en turc\n\nNouveau — deux langues en plus\n• Le panneau existe maintenant aussi en allemand (Deutsch) et en turc (Türkçe).\n• Réglages : à côté de FR / EN, le bouton « + » ouvre « Langues supplémentaires ». Quand une de ces langues est choisie, le bouton affiche DE ou TR.\n• Si After Effects est en allemand ou en turc, le panneau s'ouvre directement dans cette langue la première fois.\n\nSécurité des licences renforcée.\n\nRedémarre After Effects après la mise à jour.",
-  "date": "2026-11-24",
-  "sha256": "b63584d9e8bdc17ba73de37d28043d45c05a662c1fd77687604e440b13d8a6b5",
-  "size": 8119413
+  "version": "2.5.8",
+  "url": "https://github.com/taico74/taicofx-releases/releases/download/v2.5.8/TaicoFX_v2.5.8.zip",
+  "notes": "TaicoFX 2.5.8 — Les projets FL Studio 26 sont lus\n\nCorrigé — import d'un projet FL Studio 26\n• Un projet .flp enregistré avec FL Studio 26 était mal lu : presque aucun clip de la playlist n'était trouvé. Tous les clips sont maintenant lus, avec le bon tempo.\n• Rien ne change pour les projets FL Studio 25 et plus anciens.\n\nRedémarre After Effects après la mise à jour.",
+  "date": "2026-11-25",
+  "sha256": "a1950c9f3d87676a6221e374b3c045c4265cef5cfe22c0094025abbdf90f2cd4",
+  "size": 8133556
 }
